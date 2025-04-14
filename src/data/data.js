@@ -1,11 +1,11 @@
 export const data = [
   {
     id: 1,
-    img: 'https://i.postimg.cc/jqf4YGHR/istockphoto-183819034-612x612.jpg',
-    title: "Dice Game",
-    desc: "Developed a dice game using JavaScript , React JS , Html , Css. ",
-    link: "https://dice-game-plum-mu.vercel.app/",
-    git: "https://github.com/mchauhan208867/Dice_game",
+    img: 'https://frappe.io/files/Zerodha%20landing.png',
+    title: "Online Trading Platform",
+    desc: "Developed a trading platform with JWT based authorization and authentication ",
+    link: "https://zerodhafront-eight.vercel.app/",
+    git: "https://github.com/mchauhan208867/zerodhafront",
   },
   {
     id: 2,
