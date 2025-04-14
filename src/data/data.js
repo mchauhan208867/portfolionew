@@ -1,11 +1,11 @@
 export const data = [
   {
-    id: 3,
-    img: 'https://frappe.io/files/Zerodha%20landing.png',
-    title: "Online Trading Platform",
-    desc: "Developed a trading platform with JWT based authorization and authentication ",
-    link: "https://zerodhafront-eight.vercel.app/",
-    git: "https://github.com/mchauhan208867/zerodhafront",
+   id: 1,
+img: 'https://i.postimg.cc/PJhqvpPf/download.png',
+title: "Text Utils",
+desc: " Developed an Web application for text processing tasks",
+link: "https://mayank-delta.vercel.app/",
+git: "https://github.com/mchauhan208867/textutils",
   },
   {
     id: 2,
@@ -15,12 +15,13 @@ export const data = [
     git: "https://github.com/mchauhan208867/firebase-contact-app",
   },
   {
-    id: 1,
-    img: 'https://i.postimg.cc/PJhqvpPf/download.png',
-    title: "Text Utils",
-    desc: " Developed an Web application for text processing tasks",
-    link: "https://mayank-delta.vercel.app/",
-    git: "https://github.com/mchauhan208867/textutils",
+    
+id: 3,
+img: 'https://frappe.io/files/Zerodha%20landing.png',
+title: "Online Trading Platform",
+desc: "Developed a trading platform with JWT based authorization and authentication ",
+link: "https://zerodhafront-eight.vercel.app/",
+git: "https://github.com/mchauhan208867/zerodhafront",
   }
   
 ];
