@@ -1,6 +1,6 @@
 export const data = [
   {
-    id: 1,
+    id: 3,
     img: 'https://frappe.io/files/Zerodha%20landing.png',
     title: "Online Trading Platform",
     desc: "Developed a trading platform with JWT based authorization and authentication ",
@@ -15,7 +15,7 @@ export const data = [
     git: "https://github.com/mchauhan208867/firebase-contact-app",
   },
   {
-    id: 3,
+    id: 1,
     img: 'https://i.postimg.cc/PJhqvpPf/download.png',
     title: "Text Utils",
     desc: " Developed an Web application for text processing tasks",
